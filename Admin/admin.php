@@ -168,7 +168,7 @@
   <center>
     <form method="POST" class="lol3" id="tambahData" style="margin-top: 6rem" action="http://localhost/Terminal2/Admin/function.php">
 
-            <h2>Tambah data lokasi</h2>
+            <h2>Tambah Data Terminal</h2>
 
             <div class="mb-3">
               <label for="exampleInputEmail1" class="form-label">ID</label>
